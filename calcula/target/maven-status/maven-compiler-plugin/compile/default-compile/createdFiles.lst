@@ -1,0 +1,6 @@
+com\mycompany\calcula\CalculadoraService.class
+com\mycompany\calcula\resources\JakartaEE10Resource.class
+com\mycompany\calcula\JakartaRestConfiguration.class
+com\mycompany\calcula\CalculadoraServlet.class
+com\mycompany\calcula\CalculadoraServiceImpl.class
+com\mycompany\calcula\Calculadora.class
